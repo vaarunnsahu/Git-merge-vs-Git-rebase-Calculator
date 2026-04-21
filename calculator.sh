@@ -35,4 +35,3 @@ case $op in
   *)
     echo "Invalid operation"
     ;;
-esac
