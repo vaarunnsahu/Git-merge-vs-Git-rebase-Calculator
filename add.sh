@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "addition"
+echo "subtraction"
