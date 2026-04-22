@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Add"
+echo "Addition"
